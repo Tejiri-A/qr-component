@@ -25,8 +25,8 @@ This is my attempt on the frontend menthor qr code component challenge designed 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Tejiri-A/qr-component)
+- Live Site URL: [Add live site URL here](https://tejiri-qr-component-solution.netlify.app/)
 
 ## My process
 
