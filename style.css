@@ -43,7 +43,7 @@ body {
 }
 
 h1 {
-  line-height: 1.25;
+  line-height: 1.2;
   text-wrap: balance;
 }
 
@@ -81,7 +81,9 @@ p:not(footer > p) {
   max-width: 20rem;
   padding: 1rem;
   border-radius: 1.2rem;
-  box-shadow: 2px 8px 18px rgb(0, 0, 0, 0.1);
+  -webkit-box-shadow: -1px 17px 43px 19px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: -1px 17px 43px 19px rgba(0, 0, 0, 0.1);
+  box-shadow: -1px 17px 43px 19px rgba(0, 0, 0, 0.1);
 }
 
 /* footer */
