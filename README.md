@@ -24,7 +24,7 @@ This is my attempt on the frontend menthor qr code component challenge designed 
 ### Screenshot
 
 ![Desktop view](./screenshots/Desktop%20screenshot.png)
-![Mobile view](./screenshots/Mobile%20screenshot.png)
+![Mobile view](./screenshots/mobile%20screenshot.png)
 
 ### Links
 
