@@ -24,7 +24,7 @@ This is my attempt on the frontend menthor qr code component challenge designed 
 ### Screenshot
 
 ![Desktop view](./screenshots/Desktop%20screenshot.png)
-![Mobile view](./screenshots/mobile%20screenshot.png)
+![Mobile view](./screenshots/Mobile%20screenshot.png)
 
 ### Links
 
@@ -59,7 +59,7 @@ The element-specific styles part applies some specific styles to the html, body,
 
 The html element sets the font-family property to Outfit, a Google font that I imported using the `@import` rule. It also sets the background property to the light gray color.
 
-The body element sets the text-align property to center to align the content horizontally. It also sets the display property to flex and the align-items and justify-content properties to center to align the content vertically. It also sets the flex-direction property to column to stack the content vertically. It also sets the min-height property to 100vh to make the body fill the viewport height. It also sets the line-height property to 1.5 to improve the readability of the text.
+The body element sets the text-align property to center to align the content horizontally. It also sets the display property to flex and the align-items and justify-content properties to center to align the content vertically. It also sets the flex-direction property to column to stack the content vertically. It also sets the min-height property to 100vh to make the body fill the viewport height. 
 
 The img element sets the max-width property to 100% to make the image responsive. It also sets the display property to block to remove the default space below the image. It also sets the border-radius property to 0.6rem to round the corners of the image. It also sets the margin-bottom property to 1.2rem to create some space below the image.
 
@@ -113,7 +113,7 @@ p:not(footer > p) {
 
 ### Continued development
 
-I'd like to explore various methods of displaying multiple card components for e-commerce websites (for instance) using flexbox or grid.
+I'll like to explore various methods of displaying multiple card components for e-commerce websites (for instance) with the use of flexbox or grid.
 
 ## Author
 
